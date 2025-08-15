@@ -1,6 +1,6 @@
 import React from "react";
 function App() {
-  return <p>Chat app</p>;
+  return <div></div>;
 }
 
 export default App;
